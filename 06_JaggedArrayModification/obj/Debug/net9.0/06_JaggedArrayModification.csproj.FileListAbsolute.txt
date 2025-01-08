@@ -1,0 +1,15 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/bin/Debug/net9.0/06_JaggedArrayModification
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/bin/Debug/net9.0/06_JaggedArrayModification.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/bin/Debug/net9.0/06_JaggedArrayModification.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/bin/Debug/net9.0/06_JaggedArrayModification.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/bin/Debug/net9.0/06_JaggedArrayModification.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/obj/Debug/net9.0/06_JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/obj/Debug/net9.0/06_JaggedArrayModification.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/obj/Debug/net9.0/06_JaggedArrayModification.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/obj/Debug/net9.0/06_JaggedArrayModification.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/obj/Debug/net9.0/06_JaggedArrayModification.sourcelink.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/obj/Debug/net9.0/06_JaggedArrayModification.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/obj/Debug/net9.0/refint/06_JaggedArrayModification.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/obj/Debug/net9.0/06_JaggedArrayModification.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/obj/Debug/net9.0/06_JaggedArrayModification.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/06_JaggedArrayModification/obj/Debug/net9.0/ref/06_JaggedArrayModification.dll

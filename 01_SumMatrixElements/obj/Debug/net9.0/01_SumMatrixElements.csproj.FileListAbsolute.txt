@@ -12,3 +12,4 @@
 /home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/01_SumMatrixElements.pdb
 /home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/01_SumMatrixElements.genruntimeconfig.cache
 /home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/ref/01_SumMatrixElements.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/01_SumMatrixElements.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02_SumMatrixColumns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be15e50825d15a7ff2b67cedd16c696212ebd409")]
 [assembly: System.Reflection.AssemblyProductAttribute("02_SumMatrixColumns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02_SumMatrixColumns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
