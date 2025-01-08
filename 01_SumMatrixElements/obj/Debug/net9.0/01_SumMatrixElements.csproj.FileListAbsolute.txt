@@ -1,0 +1,14 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/bin/Debug/net9.0/01_SumMatrixElements
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/bin/Debug/net9.0/01_SumMatrixElements.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/bin/Debug/net9.0/01_SumMatrixElements.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/bin/Debug/net9.0/01_SumMatrixElements.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/bin/Debug/net9.0/01_SumMatrixElements.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/01_SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/01_SumMatrixElements.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/01_SumMatrixElements.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/01_SumMatrixElements.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/01_SumMatrixElements.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/refint/01_SumMatrixElements.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/01_SumMatrixElements.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/01_SumMatrixElements.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/01_SumMatrixElements/obj/Debug/net9.0/ref/01_SumMatrixElements.dll
