@@ -1,0 +1,15 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/bin/Debug/net9.0/04_SymbolInMatrix
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/bin/Debug/net9.0/04_SymbolInMatrix.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/bin/Debug/net9.0/04_SymbolInMatrix.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/bin/Debug/net9.0/04_SymbolInMatrix.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/bin/Debug/net9.0/04_SymbolInMatrix.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/obj/Debug/net9.0/04_SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/obj/Debug/net9.0/04_SymbolInMatrix.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/obj/Debug/net9.0/04_SymbolInMatrix.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/obj/Debug/net9.0/04_SymbolInMatrix.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/obj/Debug/net9.0/04_SymbolInMatrix.sourcelink.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/obj/Debug/net9.0/04_SymbolInMatrix.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/obj/Debug/net9.0/refint/04_SymbolInMatrix.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/obj/Debug/net9.0/04_SymbolInMatrix.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/obj/Debug/net9.0/04_SymbolInMatrix.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/Lab_Multidimensional_Arrays/04_SymbolInMatrix/obj/Debug/net9.0/ref/04_SymbolInMatrix.dll
